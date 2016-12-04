@@ -11,7 +11,7 @@ Package.onUse(function(api) {
   api.use([
     'ecmascript',
     'es5-shim',
-    'jagi:astronomy@2.3.3',
+    'jagi:astronomy@2.3.4',
     'underscore'
   ], ['client', 'server']);
 
