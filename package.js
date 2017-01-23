@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'Sort behavior for Meteor Astronomy',
-  version: '2.2.0',
+  version: '2.2.1',
   name: 'jagi:astronomy-sort-behavior',
   git: 'https://github.com/jagi/meteor-astronomy-sort-behavior.git'
 });
